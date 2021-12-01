@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr">
+  <head>
+
+    <meta charset="utf-8">
+    <title>peliculas</title>
+    <link rel="stylesheet" href="peliculas.css">
+    <script src="imagen.js"></script>
+  </head>
+  <body>
+    <button class="btn">
+    <img src="https://icons.iconarchive.com/icons/custom-icon-design/flatastic-1/256/add-1-icon.png" width="50px">
+</button>
+    <div class="barra">
+      <img src="imagenes/foto.jpg" alt="">
+    <h2>Crisanto jimenez salomon</h2>
+    <p>acerca de mi</p>
+    <p>conocimientos</p>
+    <p>mis trabajos</p>
+    <p>peliculas</p>
+    <p>contactos</p>
+
+
+    </div>
+    <h1>peliculas</h1>
+    <div id="main-container">
+      <table>
+        <thead>
+          <tr>
+            <th>Top</th><th>peliculas</th><th>calificaciones</th><th></th>
+          </tr>
+            <div class="imagenes">
+                <img id=img1 src="imagenes/Toy_Story.jpg" alt="" onmouseover="Cambiar()" onmouseout="restaurar()" width= 180px; >
+            </div>
+        </thead>
+        <tr>
+          <td>1</td><td>toy story 1 </td><td>10</td><td> <img id="img1" onmouseover="Cambiar()" onmouseout="restaurar()"  alt="" width=90px</td>
+        </tr>
+        <tr>
+          <td onmouseover="Cambiar()">2</td><td>scary movie</td><td>8</td>
+        </tr>
+        <tr>
+          <td onmouseover="iniciar()">3</td><td>walle</td><td>9</td>
+        </tr>
+        <tr>
+          <td  onmouseover="iniciar1()">4</td><td>bad boy</td><td>10</td>
+        </tr>
+        <tr>
+          <td onmouseover="cambiar()">5</td><td>Apocalipsis zombie</td><td>8</td><td>
+        </tr>
+      </table>
+
+    </div>
+  </body>
+</html>

@@ -1,0 +1,165 @@
+body{
+  background-color: #272727;
+}
+.barra img{
+margin-left: 45px;
+border-radius: 50%;
+bottom: 20px;
+position: static;
+bottom: -20px;
+
+}
+
+.barra{
+background-color: #a63e49;
+width: 300px;
+    height: 800px;
+    margin-left: 30px;
+    margin-top: -10px;
+}
+h2{
+  color: white;
+  margin-left: 20px;
+  position: relative;
+  bottom: -20px;
+}
+.barra p{
+  color: white;
+  width: 258px;
+  padding: 20px;
+  border: 1px solid white;
+  margin: 0;
+  text-align: center;
+  position: relative;
+  bottom: -40px;
+}
+.barra p:hover{
+    background-color: white;
+    color: #a63e49;
+}
+h1{
+  color: white;
+  position: relative;
+  right: -650px;
+  top: -800px;
+
+}
+p1{
+  color: white;
+  position: relative;
+  right: -450px;
+  top: -800px;
+}
+.imagen img{
+  position: relative;
+right: -390px;
+  top: -730px;
+  width: 450px;
+
+}
+.tex h2{
+  color: white;
+  position: relative;
+  right: -843px;
+  top: -995px;
+}
+p.texto{
+  color: white;
+  text-align: left;
+  width: 400px;
+height: 100px;
+
+position: relative;
+right: -859px;
+  top: -995px;
+  width: 350px;
+
+}
+hr{
+  right: -150px;
+  position: relative;
+    top: -920px;
+    width: 750px;
+}
+p.texto1{
+  color: white;
+  text-align: left;
+  width: 100px;
+height: 100px;
+position: relative;
+right: -420px;
+  top: -890px;
+  width: 350px;
+}
+.profecional h2{
+  color: white;
+  position: relative;
+  right: -400px;
+  top: -885px;
+}
+
+.imgs img{
+  position: relative;
+right: -790px;
+  top: -1060px;
+  width: 450px;
+
+}
+.boton1 button{
+
+font-weight:400px;
+font-size:15px;
+color: #a63e49;
+padding-top:10px;
+padding-bottom:5px;
+padding-left:30px;
+padding-right:40px;
+background-color:white;
+position: relative;
+right: -410px;
+top: -1090px;
+}
+.boton1 button:hover{
+  background-color:  #a63e49;
+  color: white;
+}
+.boton2 button{
+  font-weight:400px;
+  font-size:15px;
+  color: #a63e49;
+  padding-top:10px;
+  padding-bottom:5px;
+  padding-left:30px;
+  padding-right:40px;
+  background-color:white;
+  position: relative;
+  right: -860px;
+  top: -1000px;
+}
+.boton2 button:hover{
+  background-color:  #a63e49;
+  color: white;
+}
+.uno hr{
+  right: -150px;
+  position: relative;
+    top: -1040px;
+    width: 750px;
+
+}
+.contenedor h1{
+  color: white;
+  position: relative;
+  right: -600px;
+  top: -1010px;
+
+}
+p2{
+  text-align: left;
+  width: -100px;
+    padding: 25px;
+    position: relative;
+    top: -1000px;
+    right: -320px;
+    color: white;
+}
